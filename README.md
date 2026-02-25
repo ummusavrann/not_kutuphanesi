@@ -44,7 +44,7 @@ pubspec.yaml dosyasında assets tanımlıdır
 
 ## 📸 Uygulama Arayüzü
 
-![Örnek Görüntü](screenshots/ornek_goruntu.png)
+![Ornek Gorüntu](screenshots/ornek_goruntu.png)
 ---
 ⚖️ Lisans
 
