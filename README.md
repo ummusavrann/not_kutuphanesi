@@ -23,15 +23,18 @@ Not ekleyebilir, görseller ekleyebilir ve kişisel kütüphaneni yönetebilirsi
 
 ```bash
 git clone https://github.com/kullaniciadi/not_kutuphanesi.git
----
+
+```bash
 3. Proje klasörüne gir:
 
 cd not_kutuphanesi
----
+
+
 4. Paketleri yükle:
 
 flutter pub get
----
+
+
 5. Uygulamayı çalıştır:
 
 flutter run -d chrome
@@ -40,7 +43,7 @@ flutter run -d chrome
 Görseller assets/images/ klasöründe bulunur
 
 pubspec.yaml dosyasında assets tanımlıdır
----
+
 ## 📸 Uygulama Arayüzü
 
 ![Örnek Görüntü](screenshots/ornek_goruntu.png)
@@ -50,13 +53,4 @@ pubspec.yaml dosyasında assets tanımlıdır
 Bu proje kişisel öğrenim amaçlı geliştirilmiştir ve MIT lisansı kapsamında paylaşılmıştır.
 
 
----
 
-💡 Notlar:  
-- README’de emoji kullanımı GitHub’da okunabilirliği artırır.  
-- Akademik bağlam “Mobil Programlama dersinde geliştirilmiştir” cümlesiyle eklenmiştir.  
-- Örnek görsel olarak `kitap.jpg` kullanıldı, diğer görselleri eklemek istersen aynı şekilde `[![isim](assets/images/dosya.jpg)]` ekleyebilirsin.  
-
-İstersen bir sonraki adımda **GitHub’da bu README’nin nasıl güzel preview’da görüneceğini ve tüm görsellerin önizlemesini gösterecek bir sürümü** de hazırlayabilirim.  
-
-Bunu da yapalım mı?
