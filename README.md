@@ -23,15 +23,15 @@ Not ekleyebilir, görseller ekleyebilir ve kişisel kütüphaneni yönetebilirsi
 
 ```bash
 git clone https://github.com/kullaniciadi/not_kutuphanesi.git
-
+---
 3. Proje klasörüne gir:
 
 cd not_kutuphanesi
-
+---
 4. Paketleri yükle:
 
 flutter pub get
-
+---
 5. Uygulamayı çalıştır:
 
 flutter run -d chrome
@@ -40,11 +40,11 @@ flutter run -d chrome
 Görseller assets/images/ klasöründe bulunur
 
 pubspec.yaml dosyasında assets tanımlıdır
-
+---
 ## 📸 Uygulama Arayüzü
 
 ![Örnek Görüntü](screenshots/ornek_goruntu.png)
-
+---
 ⚖️ Lisans
 
 Bu proje kişisel öğrenim amaçlı geliştirilmiştir ve MIT lisansı kapsamında paylaşılmıştır.
