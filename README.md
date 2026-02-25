@@ -1,16 +1,62 @@
-# not_kutuphanesi
+# 📖 Not Kütüphanesi
 
-A new Flutter project.
+Flutter ile geliştirilmiş basit ve kullanışlı bir not yönetim uygulaması.  
+Bu proje, Lisans Eğitimimde **Mobil Programlama** dersinde geliştirilmiştir.  
+Not ekleyebilir, görseller ekleyebilir ve kişisel kütüphaneni yönetebilirsin.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Not ekleme ve listeleme  
+- 🖼️ Assets klasöründeki görselleri gösterme  
+- 🎨 Material tasarım ile modern arayüz  
+- 📂 Kolay yönetilebilir proje yapısı  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Kurulum
+
+1. Flutter SDK’nın kurulu olduğundan emin ol: [Flutter Kurulum](https://flutter.dev/docs/get-started/install)  
+
+2. Repo’yu klonla:
+
+```bash
+git clone https://github.com/kullaniciadi/not_kutuphanesi.git
+
+3. Proje klasörüne gir:
+
+cd not_kutuphanesi
+
+4. Paketleri yükle:
+
+flutter pub get
+
+5. Uygulamayı çalıştır:
+
+flutter run -d chrome
+🖼️ Assets
+
+Görseller assets/images/ klasöründe bulunur
+
+pubspec.yaml dosyasında assets tanımlıdır
+
+## 📸 Uygulama Arayüzü
+
+![Örnek Görüntü](assets/images/örnek_görüntü.png)
+
+⚖️ Lisans
+
+Bu proje kişisel öğrenim amaçlı geliştirilmiştir ve MIT lisansı kapsamında paylaşılmıştır.
+
+
+---
+
+💡 Notlar:  
+- README’de emoji kullanımı GitHub’da okunabilirliği artırır.  
+- Akademik bağlam “Mobil Programlama dersinde geliştirilmiştir” cümlesiyle eklenmiştir.  
+- Örnek görsel olarak `kitap.jpg` kullanıldı, diğer görselleri eklemek istersen aynı şekilde `[![isim](assets/images/dosya.jpg)]` ekleyebilirsin.  
+
+İstersen bir sonraki adımda **GitHub’da bu README’nin nasıl güzel preview’da görüneceğini ve tüm görsellerin önizlemesini gösterecek bir sürümü** de hazırlayabilirim.  
+
+Bunu da yapalım mı?
