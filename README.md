@@ -21,10 +21,8 @@ Not ekleyebilir, görseller ekleyebilir ve kişisel kütüphaneni yönetebilirsi
 
 2. Repo’yu klonla:
 
-```bash
 git clone https://github.com/kullaniciadi/not_kutuphanesi.git
 
-```bash
 3. Proje klasörüne gir:
 
 cd not_kutuphanesi
